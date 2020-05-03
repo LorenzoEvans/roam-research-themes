@@ -10,9 +10,8 @@ Features:
 Disclaimer: 
 This might break some features because I don't use everything Roam has to offer and so didn't test everything
 
+# Colorful version
+![Colorful version](https://github.com/bubjafrig49534/roam-research-themes/blob/master/screenshot%20minimal-color.png)
+
 # Monochrome version
 ![Monochrome version](https://github.com/bubjafrig49534/roam-research-themes/blob/master/screenshot%20minimal-monochrome.png)
-
-# Colorful version
-![Colorful version](https://github.com/bubjafrig49534/roam-research-themes/blob/master/screenshot%20minimal-monochrome.png)
-
