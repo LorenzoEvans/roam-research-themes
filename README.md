@@ -11,6 +11,8 @@ Disclaimer:
 This might break some features because I don't use everything Roam has to offer and so didn't test everything
 
 # Monochrome version
-![Monochrome version](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![Monochrome version](https://github.com/bubjafrig49534/roam-research-themes/blob/master/screenshot%20minimal-monochrome.png)
 
 # Colorful version
+![Colorful version](https://github.com/bubjafrig49534/roam-research-themes/blob/master/screenshot%20minimal-monochrome.png)
+
