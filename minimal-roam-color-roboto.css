@@ -1,4 +1,8 @@
 @import "https://fonts.googleapis.com/css?family=Roboto";
+
+/*minimal css theme for Roam Research https://roamresearch.com by Marc Hummel http://mark.with.ac */
+/* monochrome version also available: https://github.com/bubjafrig49534/roam-research-themes */
+
 h1,
 
 h2,
@@ -125,6 +129,8 @@ a {
   opacity: 80%;
 
 }
+
+a:hover{color: #4244ff;}
 
 .roam-body
 
