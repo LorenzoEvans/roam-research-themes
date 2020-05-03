@@ -1,5 +1,5 @@
 # Minimal Roam Research themes
-This project gives Roam Researchs some vibrant colors and typography that's more to my taste. It's easily installable via the Stylus Chrome plugin.
+This project gives Roam Researchs some vibrant colors and typography that's more to my taste. It's easily installable via the Stylus Chrome plugin. Happy to receive feedback. 
 
 **Features:**
 * Uses Roboto Google font
