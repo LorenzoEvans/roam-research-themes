@@ -1,0 +1,191 @@
+@import "https://fonts.googleapis.com/css?family=Roboto";
+h1,
+
+h2,
+
+h3,
+
+h4,
+
+h5,
+
+h6 {
+
+  font-family: 'roboto';
+  font-weight: 700;
+}
+
+div,
+textarea {
+  font-family: 'roboto';
+}
+.bp3-button.bp3-minimal.bp3-intent-success {
+    color: #EF2D56;
+}
+.roam-block-container {
+ max-width: 1000px;
+}
+
+
+.rm-pages-row {
+    background-color: white;
+}
+.roam-block {
+ max-width: 850px;
+}
+.kanban-board {
+  background-color: #fff;
+}
+.kanban-card {
+  background-color: white;
+  margin: 8px;
+  box-shadow: 0px 1px 2px #C08497;
+  padding: 10px;
+  border-radius: 2px;
+  line-height: 1.3em;
+}
+.kanban-title {
+  text-align: center;
+  font-weight: bold;
+  padding-top: 6px;
+}
+.kanban-column {
+  background-color: #ADCAD6;
+  margin: 0px 4px 0px 4px;
+  padding: 4px;
+  min-width: 200px;
+  border-radius: 3px;
+}
+.rm-block-ref {
+  border-bottom: none;
+  font-size: 1em;
+  padding: 4px;
+  color: #4244ff;
+}
+.checkmark {
+  background: #fff;
+}
+/*checkbox TODO*/
+.check-container input:checked ~ .checkmark {
+  background: #1fc36d;
+
+}
+
+.rm-reference-item {
+  margin-top: 8px;
+  margin-right: 8px;
+  flex: 1 1 100%;
+  background-color: white;
+  padding-right: 8px;
+}
+.check-container input:checked ~ .checkmark:after {
+
+  border-color: #fff;
+
+}
+.rm-page-ref {
+
+  color: #C5C5C5;
+}
+
+.rm-page-ref-link-color {
+
+  color: #EF2D56;
+}
+::selection {
+    background: #E5D4ED;
+}
+a {
+  color: #4244ff;
+}
+
+.intercom-app,
+.intercom-launcher-frame,
+#intercom-container {
+  display: none !important;
+}
+
+
+.roam-body
+
+  .roam-app
+
+  .roam-sidebar-container
+
+  .roam-sidebar-content
+
+  .starred-pages-wrapper
+
+  .starred-pages
+
+  .page,
+
+.roam-body .roam-app .roam-sidebar-container > * {
+
+  opacity: 80%;
+
+}
+
+.roam-body
+
+  .roam-app
+
+  .roam-sidebar-container
+
+  .roam-sidebar-content
+
+  .starred-pages-wrapper
+
+  .starred-pages
+
+  .page:hover,
+
+.roam-body
+
+  .roam-app
+
+  .roam-sidebar-container
+
+  .roam-sidebar-content
+
+/*sidebar hover highlight*/
+  .log-button:hover {
+
+  background: #FFBE0B;
+
+  color: black;
+}
+/* sidebar background color */
+.roam-body .roam-app .roam-sidebar-container {
+  position: absolute;
+  top: 45px;
+  left: -232px;
+  width: 232px;
+  bottom: 45px;
+  z-index: 999;
+ transition: all 200ms ease-in;
+  background-color: #202022;
+}
+#buffer.tall {
+
+  height: calc(100vh - 50px) !important;
+   
+}
+.rm-saving-icon .rm-synced {
+    background-color: #1FC36D;
+}
+.roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .starred-pages-wrapper {
+    color: #FFBE0B;
+}
+.check-container {
+
+  padding-right: 4px;
+}
+/* sidebar typography*/
+.roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .starred-pages-wrapper .starred-pages .page {
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 14px;
+    padding: 8px 0px 8px 4px;
+    color: #5c7080;
+}
