@@ -1,4 +1,8 @@
 @import "https://fonts.googleapis.com/css?family=Roboto";
+
+/*minimal css theme for Roam Research https://roamresearch.com by Marc Hummel http://mark.with.ac */
+/* colorful version also available: https://github.com/bubjafrig49534/roam-research-themes */
+
 h1,
 
 h2,
@@ -26,7 +30,7 @@ textarea {
  max-width: 1000px;
 }
 
-
+a:hover{color: #202020}
 .rm-pages-row {
     background-color: white;
 }
@@ -97,6 +101,7 @@ textarea {
 }
 a {
   color: #202022;
+  
 }
 
 .intercom-app,
